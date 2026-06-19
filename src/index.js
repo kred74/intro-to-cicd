@@ -3,3 +3,5 @@ function sayHi(name) {
 }
 
 module.exports = sayHi
+
+# Added a comment to test the commit command
